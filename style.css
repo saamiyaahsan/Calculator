@@ -40,3 +40,12 @@ padding:23px;
 border-radius:53px;
 display:inline-block;
 }
+
+footer{
+ background-color : #F83008;
+ color : white;
+ padding : 0px 23px;
+ text-align : center;
+ justify-content : center;
+ align-items : center;   
+}
